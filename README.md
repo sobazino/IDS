@@ -19,10 +19,10 @@
 
 </br>
 
-### RUN:
+### Model:
 
 ```
-main.py
+model.py
 ```
 
 ### TEST:
