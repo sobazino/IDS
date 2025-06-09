@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/badge/Roadmap-2025-yellowgreen.svg">
 <img src="https://img.shields.io/badge/Author-Mehran%20Nosrati-blue.svg">
 <img src="https://img.shields.io/badge/Author-Fatemeh%20Bagheri-blue.svg">
+<img src="https://img.shields.io/badge/gu-Golestan%20University-red.svg">
 </p>
 
 </br>
@@ -28,4 +29,31 @@ main.py
 
 ```
 test.ipynb
+```
+
+### Dataset:
+
+CICIDS2017 dataset contains benign and the most up-to-date common attacks, which resembles the true real-world data (PCAPs). It also includes the results of the network traffic analysis using CICFlowMeter with labeled flows based on the time stamp, source, and destination IPs, source and destination ports, protocols and attack (CSV files).
+
+Link: [CIC-IDS2017](https://www.unb.ca/cic/datasets/ids-2017.html).
+
+### Metrics:
+
+```
+Accuracy
+Precision
+Recall (Sensitivity)
+F1 Score
+ROC AUC
+AUPR (PR-AUC / Average Precision Score)
+Sensitivity
+Specificity
+False Positive Rate (FPR)
+False Negative Rate (FNR)
+FAR (False Acceptance Rate)
+Confusion Matrix
+Classification Report
+Total Errors
+Memory Usage
+Runtime
 ```
