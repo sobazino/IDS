@@ -29,6 +29,8 @@ model.py
 
 ```
 test.ipynb
+
+test 2.ipynb
 ```
 
 ### Dataset:
@@ -36,6 +38,11 @@ test.ipynb
 CICIDS2017 dataset contains benign and the most up-to-date common attacks, which resembles the true real-world data (PCAPs). It also includes the results of the network traffic analysis using CICFlowMeter with labeled flows based on the time stamp, source, and destination IPs, source and destination ports, protocols and attack (CSV files).
 
 Link: [CIC-IDS2017](https://www.unb.ca/cic/datasets/ids-2017.html).
+
+and
+
+CICIDS2018
+CICDDoS2019
 
 ### Metrics:
 
